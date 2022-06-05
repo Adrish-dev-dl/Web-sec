@@ -12,7 +12,7 @@ list_char=['a','b','c','d','e','f','g','h','i','j','k',
 url='http://159.65.92.13:31319/login'
 data_sent={'username':'Reese','password':'stranger things'} #Data to be sent. Can include tokens if possible
 result=''
-#This part can be edited. For the current code below any valid user / password character along with '*' can be used to login the portal for whhich the logic is written.
+#This part can be edited. For the current code below any valid user / password character along with '*' can be used to login to the portal for whhich the logic is written.
 flag=1
 while flag==1:
     flag=0
